@@ -6,5 +6,6 @@ resultado = (a < b) and (c >= a) or (5 == 4)
 
 print(resultado)
 print("hola amigos")
+print("agreguemos otra vaina")
 
 
